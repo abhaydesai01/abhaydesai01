@@ -5,12 +5,22 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+  - 🔭 I’m currently working on -->  Devlncept-Contribution 
+- 🔭 I’m currently working on -->   **Devlncept-Contribution** :heart:
+- 🌱 I’m currently pursuing -->  *Engineering (Computer Science )* :innocent:
+- 👯 I’m looking to collaborate on --> *`Open Source Projects`*
+- 🤔 I’m looking for help with -> **coding challenges , Internship Programs** :fire:
+                                :arrow_down:
+                                 
+                              --> Based on:
+                                   Web Development 
+                                   Backend Technologies
+                                 
+- 📫 How to reach me: --> Mobile Number (:telephone_receiver:) : 9834843396 
+                       [Facebook](https://www.facebook.com/)
+                          [Linkedln](https://www.linkedin.com/feed/)
+                          
+- 😄 Pronouns:--> **NODDY** :bowtie:
+- ⚡ Fun fact: --> *Dancing* :dancers: , *Playing Basketball* :basketball: & *Chess*
