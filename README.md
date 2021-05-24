@@ -8,8 +8,7 @@ Here are some ideas to get you started:
 
 
 
-  - 🔭 I’m currently working on -->  Devlncept-Contribution 
-- 🔭 I’m currently working on -->   **Devlncept-Contribution** :heart:
+
 - 🌱 I’m currently pursuing -->  *Engineering (Computer Science )* :innocent:
 - 👯 I’m looking to collaborate on --> *`Open Source Projects`*
 - 🤔 I’m looking for help with -> **coding challenges , Internship Programs** :fire:
