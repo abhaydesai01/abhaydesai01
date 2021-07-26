@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with -> **coding challenges , Internship Programs** :fire:
                                 :arrow_down:
                                  
-                              --> Based on:
-                                   Web Development 
-                                   Backend Technologies
+                           
+                                   
                                  
 - 📫 How to reach me: --> Mobile Number (:telephone_receiver:) : 9834843396 
                        [Facebook](https://www.facebook.com/)
