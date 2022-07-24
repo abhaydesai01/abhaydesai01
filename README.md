@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently pursuing -->  *Engineering (Computer Science )* :innocent:
-                                :arrow_down:
+                                
                                  
                            
                                    
